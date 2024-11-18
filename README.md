@@ -1,5 +1,9 @@
 # POLICY ITERATION ALGORITHM
 
+# Date: 10/09/2024
+# Name: H.Berjin Shabeck
+# Reg no: 212222240018
+
 ## AIM
 To develop a Python program to find the optimal policy for the given MDP using the policy iteration algorithm.
 
